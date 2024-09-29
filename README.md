@@ -24,21 +24,21 @@ Blueberry is a dumb project that I had 1 moment ago is a code that is not 100% m
 - By choosing to use Blueberry, you acknowledge and accept full responsibility for any consequences that may result from your actions.
 
 **Feature**
-[x] Sql Vulnerability Scanner
-[x] Website Url Scanner
-[x] Ip Port Scanner
-[x] Ip Pinger
-[ ] Search In DataBase
-[x] Dox Create
-[ ] Discord Token Generator
-[x] Discord Nitro Generator
-[x] Token Info
-[x] Token Join
-[x] Token Leave
-[x] Token Status Changer
-[x] Webhook Info
-[x] Webhook Delete
-[x] Webhook Spammer
+- [x] Sql Vulnerability Scanner
+- [x] Website Url Scanner
+- [x] Ip Port Scanner
+- [x] Ip Pinger
+- [ ] Search In DataBase
+- [x] Dox Create
+- [ ] Discord Token Generator
+- [x] Discord Nitro Generator
+- [x] Token Info
+- [x] Token Join
+- [x] Token Leave
+- [x] Token Status Changer
+- [x] Webhook Info
+- [x] Webhook Delete
+- [x] Webhook Spammer
 
 # Installation
 
@@ -53,4 +53,4 @@ Blueberry is a dumb project that I had 1 moment ago is a code that is not 100% m
 3. Choose option
 
 # Contributor
-[loxy0dev](https://github.com/loxy0dev/RedTiger-Tools)
+[loxy0dev](https://github.com/loxy0dev/RedTiger-Tools) - For RedTiger Sources code
