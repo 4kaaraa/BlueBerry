@@ -23,6 +23,8 @@ Blueberry is a dumb project that I had 1 moment ago is a code that is not 100% m
 - This project has been created with good intentions and is intended for personal use only.
 - By choosing to use Blueberry, you acknowledge and accept full responsibility for any consequences that may result from your actions.
 
+![BlueBerry](https://github.com/4kaaraa/BlueBerry/blob/main/image.png)
+
 **Feature**
 - [x] Sql Vulnerability Scanner
 - [x] Website Url Scanner
