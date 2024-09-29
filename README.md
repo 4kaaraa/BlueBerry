@@ -24,21 +24,21 @@ Blueberry is a dumb project that I had 1 moment ago is a code that is not 100% m
 - By choosing to use Blueberry, you acknowledge and accept full responsibility for any consequences that may result from your actions.
 
 **Feature**
-+ Sql Vulnerability Scanner
-+ Website Url Scanner
-+ Ip Port Scanner
-+ Ip Pinger
-- Search In DataBase
-+ Dox Create
-- Discord Token Generator
-+ Discord Nitro Generator
-+ Token Info
-+ Token Join
-+ Token Leave
-+ Token Status Changer
-+ Webhook Info
-+ Webhook Delete
-+ Webhook Spammer
+[x] Sql Vulnerability Scanner
+[x] Website Url Scanner
+[x] Ip Port Scanner
+[x] Ip Pinger
+[ ] Search In DataBase
+[x] Dox Create
+[ ] Discord Token Generator
+[x] Discord Nitro Generator
+[x] Token Info
+[x] Token Join
+[x] Token Leave
+[x] Token Status Changer
+[x] Webhook Info
+[x] Webhook Delete
+[x] Webhook Spammer
 
 # Installation
 
